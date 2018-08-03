@@ -1,0 +1,41 @@
+{
+  "name": "gatsby-blog",
+  "description": "My personal website",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "^1.9.73",
+    "gatsby-image": "^1.0.19",
+    "gatsby-link": "^1.6.22",
+    "gatsby-plugin-manifest": "^1.0.8",
+    "gatsby-plugin-offline": "^1.0.10",
+    "gatsby-plugin-react-next": "^1.0.4",
+    "gatsby-plugin-sharp": "^1.6.19",
+    "gatsby-plugin-styled-components": "^1.0.5",
+    "gatsby-plugin-typography": "^1.7.10",
+    "gatsby-remark-prismjs": "^1.2.10",
+    "gatsby-source-filesystem": "^1.5.5",
+    "gatsby-transformer-remark": "^1.7.17",
+    "gatsby-transformer-sharp": "^1.6.16",
+    "react-flip-move": "^2.9.17",
+    "react-particles-js": "^2.1.0",
+    "react-transition-group": "^2.2.1",
+    "trianglify": "^1.2.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^8.0.1",
+    "babel-preset-flow": "^6.23.0",
+    "eslint": "^4.10.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0",
+    "gh-pages": "^1.1.0"
+  }
+}
